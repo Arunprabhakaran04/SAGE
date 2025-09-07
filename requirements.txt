@@ -9,3 +9,11 @@ groq
 langchain-groq
 python-dotenv
 flower==2.0.1
+fastapi
+uvicorn
+psycopg2-binary
+pyjwt
+email-validator
+loguru
+python-multipart
+passlib[bcrypt]
